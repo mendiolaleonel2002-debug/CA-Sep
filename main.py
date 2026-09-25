@@ -1,11 +1,11 @@
-from analyzer.text_analyzer import(
-    count_words,
+from analyzer.text_analyzer import (
     count_characters,
-    count_sentences,
     count_paragraphs,
-    longest_word,
+    count_sentences,
+    count_words,
+    longest_paragraph,
     longest_sentences,
-    longest_paragraph
+    longest_word,
 )
 
 text = """
